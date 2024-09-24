@@ -1,3 +1,3 @@
-<code style="color : darkred">calculadora</code>
+<code style="color : red">calculadora</code>
 
 
