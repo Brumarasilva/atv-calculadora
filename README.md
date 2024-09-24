@@ -1,1 +1,1 @@
-$${\color{red}CALCULADORA}
+$${\color{red}CALCULADORA}$$
