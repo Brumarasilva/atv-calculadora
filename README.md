@@ -1,1 +1,1 @@
-$textsf{\color{red}{calculadora}}$
+${\color{red}{calculadora}}$
